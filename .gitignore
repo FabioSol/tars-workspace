@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+*.local
+
+# Projects
+projects/*/node_modules/
+projects/*/dist/
+projects/*/.env
+projects/*/test-results/
+projects/*/playwright-report/
+
+# Registry (built by CI)
+registry/dist/
