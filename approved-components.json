@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "description": "Shadcn components approved for use across projects",
+  "components": [
+    {
+      "name": "button",
+      "note": "Base interactive element"
+    },
+    {
+      "name": "card",
+      "note": "Content container"
+    },
+    {
+      "name": "input",
+      "note": "Form input"
+    },
+    {
+      "name": "label",
+      "note": "Form label"
+    },
+    {
+      "name": "dialog",
+      "note": "Modal dialogs"
+    },
+    {
+      "name": "dropdown-menu",
+      "note": "Context and action menus"
+    },
+    {
+      "name": "sheet",
+      "note": "Slide-over panels"
+    },
+    {
+      "name": "tabs",
+      "note": "Tabbed navigation"
+    },
+    {
+      "name": "sonner",
+      "note": "Toast notifications"
+    },
+    {
+      "name": "tooltip",
+      "note": "Hover hints"
+    }
+  ]
+}

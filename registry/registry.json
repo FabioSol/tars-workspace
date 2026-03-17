@@ -1,0 +1,20 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry.json",
+  "name": "tars-registry",
+  "homepage": "https://fabiosol.github.io/tars-workspace",
+  "items": [
+    {
+      "name": "animated-container",
+      "type": "registry:ui",
+      "description": "A container with will-change-transform for GSAP animations",
+      "dependencies": [],
+      "registryDependencies": [],
+      "files": [
+        {
+          "path": "ui/animated-container.tsx",
+          "type": "registry:ui"
+        }
+      ]
+    }
+  ]
+}
